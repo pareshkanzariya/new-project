@@ -1,4 +1,4 @@
 # new-project
 this is my first git repository
 
-author - <h1>Pares Kanzariya</h1>
+author - <h1>Pares Kanzariya Dwarka</h1>
